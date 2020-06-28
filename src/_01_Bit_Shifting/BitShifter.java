@@ -6,6 +6,7 @@ public class BitShifter {
 		int num = 4; // 100
 		int numShifted = num << 1;
 		
+		
 		// 2. Print the value of numShifted, and convert that value to binary.
 		System.out.println(numShifted+" is "+1000);
 		// 3. Compare the two binary values. Can you figure out what the << operator is for?
